@@ -5,8 +5,7 @@ if(x == y):                                                 #equal to
     print(" True x is equal to y")
 else:
     print("false x is not equal to y")
-    
-    
+
 if(x != y):                                                  #not equal to
     print("True x is not equal to  y")
 else:
